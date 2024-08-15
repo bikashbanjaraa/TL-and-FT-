@@ -25,5 +25,6 @@ Key Points:
 
 # results
 ![output](https://github.com/user-attachments/assets/d38c77e2-1e68-4d60-8f6a-ff56afd17622)
+![dog1](https://github.com/user-attachments/assets/eacad898-07d6-4f12-8b44-67d532f291ef)
 
-![dog_image_02](https://github.com/user-attachments/assets/791e18d0-bcde-47fc-b2ab-27af37c5b254)
+
