@@ -1,4 +1,4 @@
-$ Transfer learning$:
+# Transfer learning:
 
 Transfer learning is a technique where a model that has been pre-trained on a large dataset (typically a well-known benchmark dataset like ImageNet for image classification) and it is  reused as the starting point for a new task. The idea is to transfer the knowledge learned by the model in solving one problem to a different but related problem.
 
