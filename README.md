@@ -2,7 +2,7 @@
 
 Transfer learning is a technique where a model that has been pre-trained on a large dataset (typically a well-known benchmark dataset like ImageNet for image classification) and it is  reused as the starting point for a new task. The idea is to transfer the knowledge learned by the model in solving one problem to a different but related problem.
 
-Key Points:
+Key Points:<br>
 1.Pre-trained Models: Transfer learning uses models that have already been trained on large, general datasets. These models have learned useful features (like edges, textures, shapes in images) that can be applied to other tasks.<br>
 2. Application: Instead of training a model from scratch, which requires a lot of data and computational power, transfer learning allows you to start with a model that already has a good understanding of generic features.<br>
 3. Common Use Cases: Image classification, object detection, natural language processing (using models like BERT, GPT, etc.), and more.
@@ -25,3 +25,5 @@ Key Points:
 
 # results
 ![output](https://github.com/user-attachments/assets/d38c77e2-1e68-4d60-8f6a-ff56afd17622)
+
+![dog_image_02](https://github.com/user-attachments/assets/791e18d0-bcde-47fc-b2ab-27af37c5b254)
